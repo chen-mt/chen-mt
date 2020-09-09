@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 自我介绍
+* 🌱姓名：陈漫婷
+* 📫邮箱：2252540056@qq.com
+* ⚡兴趣爱好：喜欢看书，看动漫，最近比较喜欢听相声
